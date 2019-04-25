@@ -2,3 +2,4 @@
 好好学习git,下午记得把作业写啦
 day day up
 这是branch1添加的内容
+这是branch2添加的内容，不一样
